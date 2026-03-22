@@ -52,6 +52,12 @@ body{
     align-content: center;
 }
 
+#searchicon{
+    height: 40px;
+    width: 40px;   
+    margin: 10px;
+}
+
 .search button img{
     width: 30px;
     height: 30px;
